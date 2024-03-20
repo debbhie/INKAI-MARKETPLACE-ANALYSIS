@@ -6,6 +6,7 @@
 - [Tools](#tools)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Visualization with powerBi of each Data Analysis](#visualization-with-powerbi-of-each-data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
 
@@ -61,6 +62,12 @@ group by marketplace
 order by most_banner desc
 limit 3;
  ```
+
+## Visualization with powerBi of each Data Analysis
+With the use of sql to analyze the database, i was able to use powebi to visualize the most valuable exploratory data. Kindly note that no dax function was used in powerbi as most of the analysis has been carried out in sql server
+
+### Most used payment platform 
+Using sql server for the data analysis, a few methods of payment was used in the market place, the most frequent and popularly used by the buyers to purchase ebooks is the paypal. This query was coded on sql with the types of payment platform being selected and the most used amongs all was counted as the highest. Here is a visual respresentation of the analysis
 
 ## Results
 1. The top three ebooks with the most banner in market place are affliate-marketing, digital_marketing and Ecommerce. Banner in this analysis means logo.
