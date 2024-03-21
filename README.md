@@ -68,6 +68,15 @@ With the use of sql to analyze the database, i was able to use powebi to visuali
 
 ![IMG_2258](https://github.com/debbhie/INKAI-MARKETPLACE-ANALYSIS/assets/161854079/f221b0a1-472d-408a-b0a0-3db76d81d3db)
 
+From this visualization, these are the few steps taken to achieve this
+- Using sql, i was able to query the most used payment platform on the database which is paypal and it has been used by 187 buyers.
+- Banner in this project means logo and from the database, there are so many marketplace with different banners. From my query, i was able to the the marketplace that has the more banner than the others, i limited this search to 3 which are affliate marketing with the highest, digital marking and ecommerce share same result.
+- The total views gotten from the ebook is 7086
+- I checked the views individually from each users and i was able to get from the highest which is 1085 and the viewer"s name is Sarah Lee.
+
+All the dataset worked on are visualized on the chart above and they are uploaded individually in assets folder.
+
+
 ## Results
 1. The top three ebooks with the most banner in market place are affliate-marketing, digital_marketing and Ecommerce. Banner in this analysis means logo.
 2. The total number of views of the ebook is 7086
